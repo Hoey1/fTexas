@@ -1,3 +1,12 @@
 module.exports = [
-	"Facebook","Messenger","Twitter","Instagram","the internet","Social media", "Parler", "Snapchat"
-]
+  "Facebook",
+  "Messenger",
+  "Twitter",
+  "Instagram",
+  "the internet",
+  "Social media",
+  "Parler",
+  "Snapchat",
+  "Gettr",
+  "MySpace",
+];
